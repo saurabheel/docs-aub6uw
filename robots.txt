@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-n0lv73.newsyourday.com/sitemap.xml
